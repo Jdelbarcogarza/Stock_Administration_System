@@ -6,7 +6,7 @@ Proyecto personal que consiste en facilitar la administración de de inventario 
 Partió de un proyecto que encontraba complejo en mi clase de robótica  en preparatoria. Decidí mejorarlo
 para posiblemente poder darle buena forma y aprender a manejar proyectos más grandes.
 
-Primer proyecto que pongo en github y a ver que sale.
+Primer proyecto que pongo en github.
 
 ENGLISH
 
